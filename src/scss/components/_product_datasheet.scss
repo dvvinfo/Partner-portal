@@ -1,0 +1,29 @@
+.partner-product{
+  padding: 3.125rem 3.75rem 0.625rem 3.75rem;
+  background-color: #F6FBFD;
+}
+.partner-product-title{
+  font-family: KasperskySans-Bold;
+  font-size: 28px;
+  line-height: 32px;
+  margin-bottom: 3.125rem;
+  color: $black;
+}
+.partner-product-item{
+  display: flex;
+  align-items: center;
+ padding-bottom: 2.5rem;
+}
+.partner-product-item-text{
+  margin-left: 1.25rem;
+  line-height: 19px;
+  font-size: 16px;
+  font-family: KasperskySans-Light;
+  color: $black;
+}
+.partner-product-item-text a{
+  line-height: 19px;
+  font-size: 16px;
+  font-family: KasperskySans-Light;
+  color: $black;
+}

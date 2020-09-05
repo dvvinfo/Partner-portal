@@ -1,0 +1,46 @@
+.partner-blog > .container-fluid{
+  padding-left: 0;
+  padding-right: 0;
+}
+.partner-blog > .container-fluid > .row{
+  margin: 0;
+}
+.partner-blog{
+  padding: 3.125rem 0 0 0;
+}
+.partner-blog-item-title{
+  font-family: KasperskySans-Bold;
+  font-size: 21px;
+  line-height: 24px;
+  color: $black;
+  padding: 1.25rem 0;
+}
+.partner-blog-item-text{
+  font-size: 16px;
+  font-family: KasperskySans-Light;
+}
+.partner-blog-links{
+  font-size: 16px;
+  font-family: KasperskySans-Light;
+  text-decoration: underline;
+  color: #999999;
+
+}
+.partner-blog-img{
+  max-width: 380px;
+  height: 212px;
+}
+.partner-blog-item-nav{
+  padding-top: 1.25rem;
+  display: flex;
+  align-items: center;
+}
+.partner-blog-item-links{
+  color: #00A88E;
+  font-size: 18px;
+  line-height: 24px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+
+
+}

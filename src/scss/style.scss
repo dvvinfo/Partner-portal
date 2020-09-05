@@ -1,0 +1,30 @@
+@import 'vars';
+@import 'fonts';
+@import 'global';
+@import 'libs/bootstrap-grid';
+
+.wrapper{
+  max-width: 1960px;
+  margin: 0 auto;
+  font-family: KasperskySans-Regular;
+  font-size: 16px;
+  color: $gray;
+  background-color: #fff;
+}
+.partner-portal{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.pb-custom{
+  padding-bottom: 3rem;
+}
+//-----------------------------------------------------------------------------------------------------------
+//
+//                                                    END CODE
+//
+//-----------------------------------------------------------------------------------------------------------
+@import 'components/header';
+@import 'components/product_datasheet';
+@import 'components/partner-blog';
+@import 'components/partner_footer';
+@import 'media';

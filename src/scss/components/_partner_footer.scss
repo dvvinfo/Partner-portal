@@ -1,0 +1,25 @@
+.partner-footer{
+  max-width: 1200px;
+  margin: 0 auto 1.875rem auto ;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.partner-footer-info{
+  display: flex;
+  align-items: center;
+}
+.partner-footer-text{
+  padding-left: 1rem;
+  font-size: 12px;
+  line-height: 16px;
+  color: #999999;
+}
+.partner-footer-nav{
+  padding-left: 0.625rem;
+}
+.partner-footer-link{
+  font-size: 12px;
+  color: $green;
+  padding-right: 5px;
+}

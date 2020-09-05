@@ -1,0 +1,36 @@
+@import 'local-fonts';
+@font-face {
+  font-family: 'KasperskySans-Bold';
+  font-display: swap;
+  src: local('KasperskySans-Bold');
+  src: url('../fonts/KasperskySans-Bold.woff2') format('woff2');
+  src: url('../fonts/KasperskySans-Bold.woff') format('woff');
+  src: url('../fonts/KasperskySans-Bold.eot') format('eot');
+  src: url('../fonts/KasperskySans-Bold.ttf') format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'KasperskySans-Regular';
+  font-display: swap;
+  src: local('KasperskySans-Regular');
+src: url('../fonts/KasperskySans-Regular.woff2') format('woff2');
+src: url('../fonts/KasperskySans-Regular.woff') format('woff');
+src: url('../fonts/KasperskySans-Regular.eot') format('eot');
+src: url('../fonts/KasperskySans-Regular.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'KasperskySans-Light';
+  font-display: swap;
+  src: local('KasperskySans-Light');
+src: url('../fonts/KasperskySans-Light.woff2') format('woff2');
+src: url('../fonts/KasperskySans-Light.woff') format('woff');
+src: url('../fonts/KasperskySans-Light.eot') format('eot');
+src: url('../fonts/KasperskySans-Light.ttf') format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
